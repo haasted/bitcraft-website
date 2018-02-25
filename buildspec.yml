@@ -11,7 +11,8 @@ phases:
       - git checkout-index -a -f --prefix=./dist/
   post_build:
     commands:
+      - ls -lhat
 artifacts:
   files:
-    - dist/
+    - dist/**
   discard-paths: yes
