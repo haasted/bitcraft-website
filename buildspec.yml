@@ -1,0 +1,26 @@
+version: 0.2
+
+env:
+  variables:
+    key: "value"
+    key: "value"
+  parameter-store:
+    key: "value"
+    key: "value"
+            
+phases:
+  install:
+    commands:
+  pre_build:
+    commands:
+      - mkdir dist
+  build:
+    commands:
+      - git checkout-index -a -f --prefix=./dist/
+  post_build:
+    commands:
+artifacts:
+  files:
+    - dist/
+  discard-paths: yes
+  base-directory: location
