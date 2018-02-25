@@ -9,10 +9,11 @@ phases:
   build:
     commands:
       - git checkout-index -a -f --prefix=./dist/
+      - rm dist/buildspec.yml
   post_build:
     commands:
       - ls -lhat
 artifacts:
   files:
-    - dist/**
-  discard-paths: yes
+    - dist/**/*
+  discard-paths: no
