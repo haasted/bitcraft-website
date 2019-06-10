@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/haasted
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bitcraft.dk
+  * I am haasted (https://keybase.io/haasted) on keybase.
+  * I have a public key with fingerprint BC9C AA44 AE94 95BF 3BE7  2670 C7D6 69FB 5845 9EAF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e7c6fae7d5ee5dc9a7fa4fba7db44ad8ac9fb09d988b8081b2684a3481b409bb0a",
+      "fingerprint": "bc9caa44ae9495bf3be72670c7d669fb58459eaf",
+      "host": "keybase.io",
+      "key_id": "c7d669fb58459eaf",
+      "kid": "0101e7c6fae7d5ee5dc9a7fa4fba7db44ad8ac9fb09d988b8081b2684a3481b409bb0a",
+      "uid": "ab553b9e43cdf0d3c70ac5a11c8eb319",
+      "username": "haasted"
+    },
+    "service": {
+      "hostname": "bitcraft.dk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1560173445,
+  "expire_in": 157680000,
+  "prev": "1fd402e3663b6455b446f939f88b895210ad13dc17878c983db96f67e6485c73",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkltIFFEYx3ezUBcLyVQsixpLMsxmdubMzNm07EYSC9FDmVot5zY6abvb7qiJ
+bYEVYRhd3IrKgqQMJC8PBUFGgVhpD3mjkMSS7khFRBFElzNSbz12Xs45H///7/y/
+j3N8eowjznn/sfl967qLHc6H77Bj28+ShloBB2iN4KkVytnkxiooC1u+cpMKHkGU
+RIlpRDUQ0yhgDFACkWYgxcBIo1hRENURgQYWIYW6jnVRl7Bb1RUkK/ykiBBjEQnZ
+gmH6S1koGDL9FsdiAglC3M2gAgE2ZMw0t6qJRKOqymlAVwBkyODGskDYdvBwGIVZ
+jhngNX7xTcb7h/4/566cxCEMgIwhU2RCDZHKRBMRAUiSiM6wLEFbGGYhP9rFuLoM
+obDFqBDJFnixyiTMnqvdyB8BNi0SQoaVQ8u5MxgKWAESqLCdlhUMe2yjVRO0ldUM
++/4wfNj0Uz5F7qhiobAZ8AseiSuJZdpQCaiipMmKArIFtidohpjPtBVAU3WRL/sd
+VsWRkkEV0c1ktVCVsaoAwKehGlCGhj0HCNySiKgkUyJpuqYTqMsUQ9VQNaYqOiCa
+LNht7fYHOFzlQVEph4bNUj+yKkNMiLjqnfJUhzPOMTdlwdSupta17dFTd5a/yQz+
+/XrTptj/zuGKT/xb8XTG/pjZfWN81ZushNbepJKe9VmPvhxzr/iY9HxZdPTEPth5
+r/lK/eGra/IH9xdOOerqepaRMM8L1g5udt3su37XOZ67crHvZPtIetqdtOri7ljX
+9pIH7bu94zsTFcHYNTyUXnBk0/m2a5lFkdyxowkZcG93f3pmxui9Zm+0i4gXCjaC
+Pd++tOgHkqrHoh1Ln5zL3IZH1sTP7u2LTBxKXQL7Tr269dZ7sG71SdeMPLmazI89
+FIk2zvAmLxzY8bV/5YeUustNr3MrPjecHe3PT9uZ3BK7aKCyMbkxITUb1S848/pl
+W86sDTvE4l9z8r7l3/x0rOvpRM/wh9tFxovTW4aK3e8vtQ7FvPoN
+=LGhz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haasted
+
+==================================================================
