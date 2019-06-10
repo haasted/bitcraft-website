@@ -15,5 +15,6 @@ phases:
       - ls -lhat
 artifacts:
   files:
-    - dist/**/*
+    - ./**/*
   discard-paths: no
+  base-directory: dist/
